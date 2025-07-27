@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Cursed Helmet",
-        "imagen": "../assets/cursed_helmet.jpg",
+        "imagen": "../assets/cursed-helmet.png",
         "hp": 1200,
         "armadura": 0,
         "resMagica": 25,
@@ -10,7 +10,7 @@
     },
     {
         "nombre": "Athena's Shield",
-        "imagen": "../assets/athenea_shield.jpg",
+        "imagen": "../assets/athena-s-shield.png",
         "hp": 900,
         "armadura": 0,
         "resMagica": 62,
@@ -19,7 +19,7 @@
     },
     {
         "nombre": "Antique Cuirass",
-        "imagen": "../assets/antique_cuirass.jpg",
+        "imagen": "../assets/antique-cuirass.png",
         "hp": 1220,
         "armadura": 54,
         "resMagica": 0,
@@ -28,7 +28,7 @@
     },
     {
         "nombre": "Blade Armor",
-        "imagen": "../assets/blade_armon.jpg",
+        "imagen": "../assets/blade-armor.png",
         "hp": 0,
         "armadura": 90,
         "resMagica": 0,
@@ -37,7 +37,7 @@
     },
     {
         "nombre": "Dominance Ice",
-        "imagen": "../assets/dominance_ice.jpg",
+        "imagen": "../assets/dominance-ice.png",
         "hp": 700,
         "armadura": 70,
         "resMagica": 0,
@@ -46,7 +46,7 @@
     },
     {
         "nombre": "Immortality",
-        "imagen": "../assets/immortality.jpg",
+        "imagen": "../assets/immortality.png",
         "hp": 800,
         "armadura": 40,
         "resMagica": 0,
@@ -55,7 +55,7 @@
     },
     {
         "nombre": "Brute Force Breastplate",
-        "imagen": "../assets/brute_force_breastplate.jpg",
+        "imagen": "../assets/brute-force-breastplate.png",
         "hp": 770,
         "armadura": 45,
         "resMagica": 45,
