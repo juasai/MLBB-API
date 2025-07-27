@@ -4,8 +4,8 @@
         "imagen": "../assets/cursed-helmet.png",
         "hp": 1200,
         "armadura": 0,
-        "resMagica": 25,
-        "precio": 1760,
+        "resMagica": 20,
+        "precio": 1910,
         "efecto": "Quema enemigos cercanos (1.5% HP enemigo como daño mágico por segundo)"
     },
     {
@@ -61,5 +61,68 @@
         "resMagica": 45,
         "precio": 1870,
         "efecto": "Aumenta movilidad y resistencia después de usar habilidades"
+    },
+    {
+        "nombre": "Queen's Wings",
+        "imagen": "../assets/queen-s-wings.png",
+        "hp": 750,
+        "armadura": 0,
+        "resMagica": 0,
+        "precio": 2250,
+        "efecto": "Reduce el daño sufrido y aumenta el Lifesteal una vez activado."
+    },
+    {
+        "nombre": "Thunder Belt",
+        "imagen": "../assets/thunder-belt.png",
+        "hp": 1820,
+        "armadura": 15,
+        "resMagica": 15,
+        "precio": 1820,
+        "efecto": "Muestra daño AOE cerca de los objetivos enemigos y reduce su velocidad de movimiento después de causarles daño."
+    },
+    {
+        "nombre": "Fleeting Time",
+        "imagen": "../assets/fleeting-time.png",
+        "hp": 600,
+        "armadura": 0,
+        "resMagica": 0,
+        "precio": 2050,
+        "efecto": "Reducción definitiva de CD"
+    },
+    {
+        "nombre": "Guardian Helmet",
+        "imagen": "../assets/guardian-helmet.png",
+        "hp": 1550,
+        "armadura": 0,
+        "resMagica": 0,
+        "precio": 2200,
+        "efecto": "Regeneracion contante de HP"
+    },
+      {
+        "nombre": "Twilight Armor",
+        "imagen": "../assets/twilight-armor.png",
+        "hp": 1200,
+        "armadura": 15,
+        "resMagica": 0,
+        "precio": 2100,
+        "efecto": "Muestra un estado de reducción del daño físico recibido y de infligir daño AoE a los enemigos cercanos una vez activado."
+    },
+    {
+        "nombre": "Oraculo",
+        "imagen": "../assets/oracle.png",
+        "hp": 850,
+        "armadura": 20,
+        "resMagica": 20,
+        "precio": 1860,
+        "efecto": "Regeneracion mejorada"
+    },
+    {
+        "nombre": "Radian Armor",
+        "imagen": "../assets/radiant-armor.png",
+        "hp": 950,
+        "armadura": 0,
+        "resMagica": 40,
+        "precio": 1880,
+        "efecto": "Reduccion de daño magico"
     }
 ]
